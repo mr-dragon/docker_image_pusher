@@ -8,6 +8,7 @@
 #g-box
 ailg/g-box:hostmode
 emby/embyserver:4.8.0.56
+ddsderek/xiaoya-emd:latest
 
 #dsm
 6053537/portainer-ce
