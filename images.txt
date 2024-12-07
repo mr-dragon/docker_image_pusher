@@ -8,6 +8,8 @@
 #g-box
 ailg/g-box:hostmode
 emby/embyserver:4.8.0.56
+amilys/embyserver:4.8.0.56
+amilys/embyserver:latest
 ddsderek/xiaoya-emd:latest
 
 #dsm
@@ -18,7 +20,7 @@ nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
 imaliang/cloud-media-sync
 iyuucn/iyuuplus-dev:latest
-amilys/embyserver:latest
+advplyr/audiobookshelf:latest
 
 hslr/sun-panel:latest
 gethomepage/homepage:dev
@@ -37,6 +39,7 @@ crazymax/diun:latest
 whyour/qinglong:latest
 gdy666/lucky:latest
 corentinth/it-tools:latest
+
 
 
 
