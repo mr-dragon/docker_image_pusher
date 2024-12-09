@@ -29,6 +29,7 @@ louislam/dockge:1
 crazymax/diun:latest
 
 xhofe/alist:latest
+buqian/alist:latest
 cloudnas/clouddrive2
 
 homeassistant/home-assistant:stable
