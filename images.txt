@@ -41,6 +41,9 @@ whyour/qinglong:latest
 gdy666/lucky:latest
 corentinth/it-tools:latest
 
+#tvbox
+eulac/tgsou
+ddstomo/pg_tgsearch
 
 
 
