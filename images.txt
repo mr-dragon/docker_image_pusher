@@ -19,6 +19,7 @@ nevinee/qbittorrent:4.3.9
 nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
 imaliang/cloud-media-sync
+imaliang/cloud-media-sync:0.3.0.3
 iyuucn/iyuuplus-dev:latest
 advplyr/audiobookshelf:latest
 
