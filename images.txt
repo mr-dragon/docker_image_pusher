@@ -7,46 +7,45 @@
 #2024-12-06
 #g-box
 ailg/g-box:hostmode
-emby/embyserver:4.8.0.56
-amilys/embyserver:4.8.0.56
-amilys/embyserver:latest
-ddsderek/xiaoya-emd:latest
+#emby/embyserver:4.8.0.56
+#amilys/embyserver:4.8.0.56
+#amilys/embyserver:latest
+#ddsderek/xiaoya-emd:latest
 
 #dsm
 6053537/portainer-ce
 linuxserver/transmission:4.0.5
-nevinee/qbittorrent:4.3.9
+#nevinee/qbittorrent:4.3.9
 nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
 imaliang/cloud-media-sync
 imaliang/cloud-media-sync:0.3.0.7
-iyuucn/iyuuplus-dev:latest
-advplyr/audiobookshelf:latest
+#iyuucn/iyuuplus-dev:latest
+#advplyr/audiobookshelf:latest
 
-hslr/sun-panel:latest
-gethomepage/homepage:dev
-louislam/dockge:1
-0nlylty/dockercopilot:UGREEN
-crazymax/diun:latest
+#hslr/sun-panel:latest
+#gethomepage/homepage:dev
+#louislam/dockge:1
+#0nlylty/dockercopilot:UGREEN
 
 xhofe/alist:latest
-buqian/alist:latest
-cloudnas/clouddrive2
+#buqian/alist:latest
+#cloudnas/clouddrive2
 
-homeassistant/home-assistant:stable
-metatube/metatube-server:latest
+#homeassistant/home-assistant:stable
+#metatube/metatube-server:latest
 
 len996/115bot:latest
-crazymax/diun:latest
-whyour/qinglong:latest
-gdy666/lucky:latest
+#crazymax/diun:latest
+#whyour/qinglong:latest
+#gdy666/lucky:latest
 corentinth/it-tools:latest
 
 #tvbox
-eulac/tgsou
-ddstomo/pg_tgsearch
+#eulac/tgsou
+#ddstomo/pg_tgsearch
 
 #podman
-quay.io/podman/machine-os:5.3
+#quay.io/podman/machine-os:5.3
 
 
