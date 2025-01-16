@@ -19,8 +19,8 @@ linuxserver/transmission:4.0.5
 nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
 #imaliang/cloud-media-sync
-imaliang/cloud-media-sync:0.3.2.1
-#imaliang/cloud-media-sync:0.3.3
+#imaliang/cloud-media-sync:0.3.2.1
+imaliang/cloud-media-sync:0.3.3.1
 #iyuucn/iyuuplus-dev:latest
 #advplyr/audiobookshelf:latest
 
