@@ -18,22 +18,28 @@ linuxserver/transmission:4.0.5
 #nevinee/qbittorrent:4.3.9
 nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
-#imaliang/cloud-media-sync
-#imaliang/cloud-media-sync:0.3.2.1
-imaliang/cloud-media-sync:0.3.3.1
-#iyuucn/iyuuplus-dev:latest
-#advplyr/audiobookshelf:latest
 
-#hslr/sun-panel:latest
+#strm 302
+imaliang/cloud-media-sync:latest
+#imaliang/cloud-media-sync:0.3.2.1
+imaliang/cloud-media-sync:0.3.3.7
+htnanako/xstrm:latest
+htnanako/xstrm:v0.3.0
+htnanako/xstrm:v0.2.7
+
+#iyuucn/iyuuplus-dev:latest
+advplyr/audiobookshelf:latest
+
+hslr/sun-panel:latest
 #gethomepage/homepage:dev
 #louislam/dockge:1
 #0nlylty/dockercopilot:UGREEN
 
 xhofe/alist:latest
 #buqian/alist:latest
-#cloudnas/clouddrive2
+cloudnas/clouddrive2
 
-#homeassistant/home-assistant:stable
+homeassistant/home-assistant:stable
 #metatube/metatube-server:latest
 
 len996/115bot:latest
