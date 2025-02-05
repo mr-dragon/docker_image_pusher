@@ -1,4 +1,3 @@
-#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
@@ -9,7 +8,7 @@
 ailg/g-box:hostmode
 #emby/embyserver:4.8.0.56
 #amilys/embyserver:4.8.0.56
-#amilys/embyserver:latest
+amilys/embyserver:latest
 #ddsderek/xiaoya-emd:latest
 
 #dsm
@@ -22,37 +21,81 @@ jxxghp/moviepilot-v2
 #strm 302
 imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.2.1
-imaliang/cloud-media-sync:0.3.3.7
 htnanako/xstrm:latest
-htnanako/xstrm:v0.3.0
-htnanako/xstrm:v0.2.7
+#htnanako/xstrm:v0.3.0
+#htnanako/xstrm:v0.2.7
 
-#iyuucn/iyuuplus-dev:latest
+iyuucn/iyuuplus-dev:latest
 advplyr/audiobookshelf:latest
 
 hslr/sun-panel:latest
-#gethomepage/homepage:dev
-#louislam/dockge:1
-#0nlylty/dockercopilot:UGREEN
+gethomepage/homepage:dev
+louislam/dockge:1
+0nlylty/dockercopilot:UGREEN
+
+xylplm/media-saber:go-dev
+xylplm/media-saber:latest-beta
+xylplm/media-saber:beta-arm
 
 xhofe/alist:latest
 #buqian/alist:latest
 cloudnas/clouddrive2
 
 homeassistant/home-assistant:stable
-#metatube/metatube-server:latest
+metatube/metatube-server:latest
 
 len996/115bot:latest
 #crazymax/diun:latest
-#whyour/qinglong:latest
-#gdy666/lucky:latest
+whyour/qinglong:latest
+gdy666/lucky:latest
 corentinth/it-tools:latest
 
 #tvbox
-#eulac/tgsou
-#ddstomo/pg_tgsearch
+eulac/tgsou
+ddstomo/pg_tgsearch
 
 #podman
 #quay.io/podman/machine-os:5.3
 
+#==========dev==========start
+adminer
+phpmyadmin
 
+#redis
+redis:6
+redis:7
+#mysql
+#mysql:5.6
+mysql:5.7
+mysql:8
+#mysql:9
+#postgres
+postgres:16
+postgres:17
+#mariadb
+mariadb:10
+mariadb:11
+redis/redisinsight
+#mongo
+mongo:6
+mongo:7
+mongo:8
+star7th/showdoc:latest
+elasticsearch
+elasticsearch:7.17.27
+elasticsearch:8.16.3
+kibana:8.16.3
+eclipse-temurin:8
+eclipse-temurin:17
+eclipse-temurin:21
+#eclipse-temurin:23
+
+jenkins:2.60.3
+rust:1.84
+mongo-express:1.0.2
+
+nginx:1.27
+#traefik
+traefik:2
+traefik:3
+#==========dev==========end
