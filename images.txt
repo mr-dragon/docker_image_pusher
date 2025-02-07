@@ -15,6 +15,7 @@ amilys/embyserver:latest
 6053537/portainer-ce
 linuxserver/transmission:4.0.5
 #nevinee/qbittorrent:4.3.9
+nevinee/qbittorrent
 nevinee/qbittorrent:4.6.7
 jxxghp/moviepilot-v2
 
@@ -81,7 +82,7 @@ mongo:6
 mongo:7
 mongo:8
 star7th/showdoc:latest
-elasticsearch
+#elasticsearch
 elasticsearch:7.17.27
 elasticsearch:8.16.3
 kibana:8.16.3
