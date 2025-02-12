@@ -21,6 +21,7 @@
 #6053537/portainer-ce
 #louislam/dockge:1
 #0nlylty/dockercopilot:UGREEN
+cp0204/dkturbo:main
 
 #pt
 #linuxserver/transmission:latest
