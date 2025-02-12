@@ -5,56 +5,56 @@
 
 #2024-12-06
 #g-box
-ailg/g-box:hostmode
-ailg/g-box:250211
-ailg/g-box:250207
+#ailg/g-box:hostmode
+#ailg/g-box:250211
+#ailg/g-box:250207
 
-emby/embyserver:latest
-emby/embyserver:4.9.0.37
-emby/embyserver:4.9.0.38
-amilys/embyserver:4.9.0.37
-amilys/embyserver:latest
-ddsderek/xiaoya-emd:latest
-ddsderek/xiaoya-emd:v1.6.0
+#emby/embyserver:latest
+#emby/embyserver:4.9.0.37
+#emby/embyserver:4.9.0.38
+#amilys/embyserver:4.9.0.37
+#amilys/embyserver:latest
+#ddsderek/xiaoya-emd:latest
+#ddsderek/xiaoya-emd:v1.6.0
 
 #docker
-6053537/portainer-ce
+#6053537/portainer-ce
 #louislam/dockge:1
-0nlylty/dockercopilot:UGREEN
+#0nlylty/dockercopilot:UGREEN
 
 #pt
-linuxserver/transmission:latest
+#linuxserver/transmission:latest
 #linuxserver/transmission:4.0.5
 #https://github.com/DDS-Derek/transmission-Docker
-ddsderek/transmission:latest
-ddsderek/transmission:v4
+#ddsderek/transmission:latest
+#ddsderek/transmission:v4
 #ddsderek/transmission:4.0.5-r3
 #ddsderek/transmission:4.0.6-r2
-ddsderek/transmission:v3
+#ddsderek/transmission:v3
 #nevinee/qbittorrent:4.3.9
-nevinee/qbittorrent
+#nevinee/qbittorrent
 #nevinee/qbittorrent:4.6.7
-iyuucn/iyuuplus-dev:latest
-iyuucn/iyuuplus:latest
+#iyuucn/iyuuplus-dev:latest
+#iyuucn/iyuuplus:latest
 
 #mp
-jxxghp/moviepilot-v2:latest
+#jxxghp/moviepilot-v2:latest
 #jxxghp/moviepilot-v2:2.2.8-1
-
-
-
-advplyr/audiobookshelf:latest
-gotson/komga:latest
-#gotson/komga:1.19.1
-
-
-hslr/sun-panel:latest
-gethomepage/homepage:dev
 
 #ms
 xylplm/media-saber:go-dev
-xylplm/media-saber:latest-beta
-xylplm/media-saber:beta-arm
+#xylplm/media-saber:latest-beta
+#xylplm/media-saber:beta-arm
+
+#advplyr/audiobookshelf:latest
+#gotson/komga:latest
+#gotson/komga:1.19.1
+
+
+#hslr/sun-panel:latest
+#gethomepage/homepage:dev
+
+
 
 #strm 115 302
 # cms： 88元
@@ -69,63 +69,63 @@ imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.3.5
 #imaliang/cloud-media-sync:0.3.3.4
 # 30元
-htnanako/xstrm:latest
+#htnanako/xstrm:latest
 #htnanako/xstrm:v0.3.0
 #htnanako/xstrm:v0.2.7
 
-xhofe/alist:latest
+#xhofe/alist:latest
 #buqian/alist:latest
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
 
-homeassistant/home-assistant:stable
-metatube/metatube-server:latest
+#homeassistant/home-assistant:stable
+#metatube/metatube-server:latest
 
-len996/115bot:latest
+#len996/115bot:latest
 #crazymax/diun:latest
-whyour/qinglong:latest
-gdy666/lucky:latest
+#whyour/qinglong:latest
+#gdy666/lucky:latest
 #gdy666/lucky:2.15.3
 #gdy666/lucky:2.14.0
-corentinth/it-tools:latest
+#corentinth/it-tools:latest
 
 #tvbox
-eulac/tgsou
-ddstomo/pg_tgsearch
+#eulac/tgsou
+#ddstomo/pg_tgsearch
 
 #podman
 #quay.io/podman/machine-os:5.3
 
 #==========dev==========start
-adminer
-phpmyadmin
+#adminer
+#phpmyadmin
 
 #redis
-redis:6
-redis:7
+#redis:6
+#redis:7
 #mysql
 #mysql:5.6
-mysql:5.7
-mysql:8
+#mysql:5.7
+#mysql:8
 #mysql:9
 #postgres
-postgres:16
-postgres:17
+#postgres:16
+#postgres:17
 #mariadb
-mariadb:10
-mariadb:11
-redis/redisinsight
+#mariadb:10
+#mariadb:11
+#redis/redisinsight
 #mongo
-mongo:6
-mongo:7
-mongo:8
-star7th/showdoc:latest
+#mongo:6
+#mongo:7
+#mongo:8
+#star7th/showdoc:latest
 #elasticsearch
 #elasticsearch:7.17.27
 #elasticsearch:8.16.3
 #kibana:8.16.3
-eclipse-temurin:8
-eclipse-temurin:17
-eclipse-temurin:21
+#eclipse-temurin:8
+#eclipse-temurin:17
+#eclipse-temurin:21
 #eclipse-temurin:23
 
 #jenkins:2.60.3
@@ -134,6 +134,6 @@ eclipse-temurin:21
 
 #nginx:1.27
 #traefik
-traefik:2
-traefik:3
+#traefik:2
+#traefik:3
 #==========dev==========end
