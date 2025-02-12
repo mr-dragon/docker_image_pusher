@@ -9,34 +9,62 @@ ailg/g-box:hostmode
 #emby/embyserver:4.8.0.56
 #amilys/embyserver:4.8.0.56
 amilys/embyserver:latest
-#ddsderek/xiaoya-emd:latest
+ddsderek/xiaoya-emd:latest
 
-#dsm
+#docker
 6053537/portainer-ce
+#louislam/dockge:1
+0nlylty/dockercopilot:UGREEN
+
+#pt
 linuxserver/transmission:4.0.5
+#https://github.com/DDS-Derek/transmission-Docker
+ddsderek/transmission:latest
+ddsderek/transmission:v4
+ddsderek/transmission:4.0.5-r3
+ddsderek/transmission:4.0.6-r2
+ddsderek/transmission:v3
 #nevinee/qbittorrent:4.3.9
 nevinee/qbittorrent
-nevinee/qbittorrent:4.6.7
-jxxghp/moviepilot-v2
-
-#strm 302
-imaliang/cloud-media-sync:latest
-#imaliang/cloud-media-sync:0.3.2.1
-htnanako/xstrm:latest
-#htnanako/xstrm:v0.3.0
-#htnanako/xstrm:v0.2.7
-
+#nevinee/qbittorrent:4.6.7
 iyuucn/iyuuplus-dev:latest
+iyuucn/iyuuplus:latest
+
+#mp
+jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:2.2.8-1
+
+
+
 advplyr/audiobookshelf:latest
+gotson/komga:latest
+gotson/komga:1.19.1
+
 
 hslr/sun-panel:latest
 gethomepage/homepage:dev
-louislam/dockge:1
-0nlylty/dockercopilot:UGREEN
 
+#ms
 xylplm/media-saber:go-dev
 xylplm/media-saber:latest-beta
 xylplm/media-saber:beta-arm
+
+#strm 115 302
+# cms： 88元
+imaliang/cloud-media-sync:latest
+imaliang/cloud-media-sync:0.3.3.12
+imaliang/cloud-media-sync:0.3.3.11
+imaliang/cloud-media-sync:0.3.3.10
+imaliang/cloud-media-sync:0.3.3.9
+imaliang/cloud-media-sync:0.3.3.8
+imaliang/cloud-media-sync:0.3.3.7
+imaliang/cloud-media-sync:0.3.3.6
+imaliang/cloud-media-sync:0.3.3.5
+imaliang/cloud-media-sync:0.3.3.4
+# 30元
+htnanako/xstrm:latest
+#htnanako/xstrm:v0.3.0
+#htnanako/xstrm:v0.2.7
 
 xhofe/alist:latest
 #buqian/alist:latest
@@ -49,6 +77,8 @@ len996/115bot:latest
 #crazymax/diun:latest
 whyour/qinglong:latest
 gdy666/lucky:latest
+gdy666/lucky:2.15.3
+gdy666/lucky:2.14.0
 corentinth/it-tools:latest
 
 #tvbox
