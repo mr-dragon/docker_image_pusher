@@ -101,7 +101,7 @@ imaliang/cloud-media-sync:latest
 #phpmyadmin
 
 #redis
-#redis:6
+redis:6.2.16
 #redis:7
 #mysql
 #mysql:5.6
