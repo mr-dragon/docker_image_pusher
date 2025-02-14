@@ -3,7 +3,21 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#2024-12-06
+#=================AI=================start
+dyrnq/open-webui:main
+calciumion/new-api:latest
+rockchin/langbot:latest
+lobehub/lobe-chat:latest
+lobehub/lobe-chat:1.53.12
+
+ollama/ollama:latest
+
+#dify
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
+langgenius/dify-sandbox:0.2.10
+#=================AI=================end
+
 #g-box
 #ailg/g-box:hostmode
 #ailg/g-box:250211
@@ -21,7 +35,7 @@
 #6053537/portainer-ce
 #louislam/dockge:1
 #0nlylty/dockercopilot:UGREEN
-cp0204/dkturbo:main
+#cp0204/dkturbo:main
 
 #pt
 #linuxserver/transmission:latest
