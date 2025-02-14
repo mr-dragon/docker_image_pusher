@@ -6,18 +6,19 @@
 #=================AI=================start
 ghcr.io/open-webui/open-webui:main
 #dyrnq/open-webui:main
-#calciumion/new-api:latest
-calciumion/new-api:v0.4.7.2
+calciumion/new-api:latest
+#calciumion/new-api:v0.4.7.2
 rockchin/langbot:latest
 lobehub/lobe-chat:latest
-lobehub/lobe-chat:1.53.12
+#lobehub/lobe-chat:1.53.12
 
-ollama/ollama:latest
+#ollama/ollama:latest
+ollama/ollama:0.5.11
 
 #dify
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
-langgenius/dify-sandbox:0.2.10
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
+#langgenius/dify-sandbox:0.2.10
 #=================AI=================end
 
 #g-box
