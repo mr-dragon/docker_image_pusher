@@ -4,8 +4,10 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #=================AI=================start
-dyrnq/open-webui:main
-calciumion/new-api:latest
+ghcr.io/open-webui/open-webui:main
+#dyrnq/open-webui:main
+#calciumion/new-api:latest
+calciumion/new-api:v0.4.7.2
 rockchin/langbot:latest
 lobehub/lobe-chat:latest
 lobehub/lobe-chat:1.53.12
