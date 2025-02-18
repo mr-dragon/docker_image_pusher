@@ -8,12 +8,15 @@ ghcr.io/open-webui/open-webui:main
 #dyrnq/open-webui:main
 calciumion/new-api:latest
 #calciumion/new-api:v0.4.7.2
-rockchin/langbot:latest
+#rockchin/langbot:latest
 lobehub/lobe-chat:latest
 #lobehub/lobe-chat:1.53.12
 
 #ollama/ollama:latest
-ollama/ollama:0.5.11
+#ollama/ollama:0.5.11
+1panel/maxkb:latest
+1panel/maxkb:v1.10.1-lts
+1panel/maxkb:v1.9.1
 
 #dify
 #langgenius/dify-api:0.15.3
