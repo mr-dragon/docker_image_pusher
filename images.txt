@@ -12,10 +12,10 @@ lobehub/lobe-chat:latest
 calciumion/new-api:latest
 #calciumion/new-api:v0.4.7.2
 justsong/one-api:latest
-justsong/one-api:v0.6.11-preview.7
+#justsong/one-api:v0.6.11-preview.7
 
 
-#ollama/ollama:latest
+ollama/ollama:latest
 #ollama/ollama:0.5.11
 1panel/maxkb:latest
 #1panel/maxkb:v1.10.1-lts
@@ -76,10 +76,18 @@ xylplm/media-saber:go-dev
 #gotson/komga:latest
 #gotson/komga:1.19.1
 
+##=================Navigation=================start
 
-#hslr/sun-panel:latest
-#gethomepage/homepage:dev
+hslr/sun-panel:latest
+madrays/sun-panel-helper:latest
+madrays/sun-panel-helper:v2.0.2
+madrays/sun-panel-helper:v1.7.1
 
+gethomepage/homepage:dev
+gethomepage/homepage:v0.10.9
+gethomepage/homepage:feature-komga-v2
+gethomepage/homepage:latest
+##=================Navigation=================end
 
 
 #strm 115 302
