@@ -43,7 +43,7 @@ ollama/ollama:latest
 #ddsderek/xiaoya-emd:v1.6.0
 
 #docker
-#6053537/portainer-ce
+6053537/portainer-ce
 #louislam/dockge:1
 #0nlylty/dockercopilot:UGREEN
 #cp0204/dkturbo:main
@@ -64,12 +64,12 @@ ollama/ollama:latest
 #iyuucn/iyuuplus:latest
 
 #mp
-#jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:latest
 #jxxghp/moviepilot-v2:2.2.8-1
 
 #ms
-xylplm/media-saber:go-dev
-#xylplm/media-saber:latest-beta
+#xylplm/media-saber:go-dev
+xylplm/media-saber:latest-beta
 #xylplm/media-saber:beta-arm
 
 #advplyr/audiobookshelf:latest
@@ -78,15 +78,15 @@ xylplm/media-saber:go-dev
 
 ##=================Navigation=================start
 
-hslr/sun-panel:latest
-madrays/sun-panel-helper:latest
-madrays/sun-panel-helper:v2.0.2
-madrays/sun-panel-helper:v1.7.1
+#hslr/sun-panel:latest
+#madrays/sun-panel-helper:latest
+#madrays/sun-panel-helper:v2.0.2
+#madrays/sun-panel-helper:v1.7.1
 
 gethomepage/homepage:dev
-gethomepage/homepage:v0.10.9
-gethomepage/homepage:feature-komga-v2
-gethomepage/homepage:latest
+#gethomepage/homepage:v0.10.9
+#gethomepage/homepage:feature-komga-v2
+#gethomepage/homepage:latest
 ##=================Navigation=================end
 
 
@@ -134,7 +134,7 @@ imaliang/cloud-media-sync:latest
 #phpmyadmin
 
 #redis
-redis:6.2.16
+#redis:6.2.16
 #redis:7
 #mysql
 #mysql:5.6
