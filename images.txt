@@ -125,6 +125,10 @@ imaliang/cloud-media-sync:latest
 #tvbox
 #eulac/tgsou
 #ddstomo/pg_tgsearch
+unilei/aipan-netdisk-search-simple:latest
+miniflux/miniflux:latest
+likun7981/hlink:latest
+vector450/docker-rss:latest
 
 #podman
 #quay.io/podman/machine-os:5.3
