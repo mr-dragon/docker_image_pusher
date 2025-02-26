@@ -27,6 +27,10 @@ ollama/ollama:latest
 #langgenius/dify-sandbox:0.2.10
 
 #rockchin/langbot:latest
+
+soulter/astrbot:latest
+registry.cn-hangzhou.aliyuncs.com/gewe/gewe:latest
+
 #=================AI=================end
 
 #g-box
