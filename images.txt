@@ -102,7 +102,7 @@ imaliang/cloud-media-sync:latest
 # 30元
 #htnanako/xstrm:latest
 
-#xhofe/alist:latest
+xhofe/alist:latest
 #buqian/alist:latest
 #cloudnas/clouddrive2
 
