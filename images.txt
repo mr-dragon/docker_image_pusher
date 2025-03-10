@@ -80,16 +80,16 @@
 #gotson/komga:latest
 #gotson/komga:1.19.1
 
-ysx88/autolady:latest
-ysx88/subconverter
-ysx88/nas-tools
-ysx88/chinesesubfinder
-ysx88/filebrowser
-ysx88/mdc
-ysx88/xunlei
-ysx88/music_tag_web
-ysx88/calibre-web
-ysx88/subweb
+#ysx88/autolady:latest
+#ysx88/subconverter
+#ysx88/nas-tools
+#ysx88/chinesesubfinder
+#ysx88/filebrowser
+#ysx88/mdc
+#ysx88/xunlei
+#ysx88/music_tag_web
+#ysx88/calibre-web
+#ysx88/subweb
 
 ##=================Navigation=================start
 
