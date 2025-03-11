@@ -31,6 +31,9 @@
 #soulter/astrbot:latest
 #registry.cn-hangzhou.aliyuncs.com/gewe/gewe:latest
 
+n8nio/n8n:latest
+
+
 #=================AI=================end
 
 #g-box
@@ -141,6 +144,7 @@ xhofe/alist:latest
 
 
 #==========dev==========start
+louislam/uptime-kuma:1
 #adminer
 #phpmyadmin
 
