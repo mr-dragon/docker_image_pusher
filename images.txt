@@ -69,18 +69,7 @@ n8nio/n8n:latest
 #nevinee/qbittorrent:4.6.7
 #iyuucn/iyuuplus-dev:latest
 #iyuucn/iyuuplus:latest
-envyafish/byte-muse:latest
-envyafish/byte-muse:1.7.4
-envyafish/byte-muse:1.7.3
-envyafish/byte-muse:1.7.2
-envyafish/byte-muse:1.7.1
-envyafish/byte-muse:1.7.0
-envyafish/byte-muse:1.6.1
-envyafish/byte-muse:1.6.0
-envyafish/byte-muse:1.5.8
-envyafish/byte-muse:1.5.1
-envyafish/byte-muse:1.4.9
-envyafish/byte-muse:1.4.8
+#envyafish/byte-muse:latest
 
 #mp
 #jxxghp/moviepilot-v2:latest
@@ -123,7 +112,7 @@ envyafish/byte-muse:1.4.8
 #strm 115 302
 # cms： 88元
 imaliang/cloud-media-sync:latest
-#imaliang/cloud-media-sync:0.3.4.8
+imaliang/cloud-media-sync:0.3.5.2
 
 # 30元
 #htnanako/xstrm:latest
