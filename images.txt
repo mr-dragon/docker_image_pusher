@@ -123,6 +123,9 @@ imaliang/cloud-media-sync:0.3.5.14
 # 30元
 #htnanako/xstrm:latest
 
+jiangrui1994/cloudsaver:latest
+jiangrui1994/cloudsaver:0.4.9
+
 xhofe/alist:latest
 #buqian/alist:latest
 #cloudnas/clouddrive2
