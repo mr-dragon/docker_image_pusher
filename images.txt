@@ -78,7 +78,7 @@ bestzwei/libretv:latest
 #jxxghp/moviepilot-v2:2.2.8-1
 
 #ms
-#xylplm/media-saber:go-dev
+xylplm/media-saber:go-dev
 #xylplm/media-saber:latest-beta
 #xylplm/media-saber:beta-arm
 
