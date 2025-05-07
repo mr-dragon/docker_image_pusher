@@ -126,7 +126,11 @@ imaliang/cloud-media-sync:latest
 #htnanako/xstrm:latest
 
 jiangrui1994/cloudsaver:latest
-jiangrui1994/cloudsaver:0.4.9
+jiangrui1994/cloudsaver:test
+jiangrui1994/cloudsaver:0.5.3
+
+gravityle/nullbr115:latest
+xia1307/cloud189-auto-save:latest
 
 xhofe/alist:latest
 #buqian/alist:latest
