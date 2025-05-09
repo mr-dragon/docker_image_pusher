@@ -80,9 +80,11 @@ jxxghp/moviepilot-v2:latest
 #jxxghp/moviepilot-v2:2.2.8-1
 
 #ms
-xylplm/media-saber:go-dev
+xylplm/media-saber:latest
+xylplm/media-saber:dev
 #xylplm/media-saber:latest-beta
 #xylplm/media-saber:beta-arm
+xylplm/media-saber:3.0.202505091236
 
 advplyr/audiobookshelf:latest
 gotson/komga:latest
@@ -121,6 +123,10 @@ imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.5.15
 #imaliang/cloud-media-sync:0.3.5.14
 #imaliang/cloud-media-sync:0.3.5.8
+
+itefuir/alist-strm:latest
+itefuir/alist-strm:v2.4
+itefuir/alist-strm:beta
 
 # 30元
 #htnanako/xstrm:latest
