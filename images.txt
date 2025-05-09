@@ -137,6 +137,7 @@ jiangrui1994/cloudsaver:0.5.3
 
 gravityle/nullbr115:latest
 xia1307/cloud189-auto-save:latest
+cp0204/quark-auto-save:latest
 
 xhofe/alist:latest
 #buqian/alist:latest
