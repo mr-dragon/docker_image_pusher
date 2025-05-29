@@ -135,9 +135,19 @@ jiangrui1994/cloudsaver:latest
 jiangrui1994/cloudsaver:test
 jiangrui1994/cloudsaver:0.5.3
 
+# 网盘观影
 gravityle/nullbr115:latest
 xia1307/cloud189-auto-save:latest
+xia1307/cloud189-auto-save:v2.2.35
+xia1307/cloud189-auto-save:2.2.34
+xia1307/cloud189-auto-save:v2.2.32
+xia1307/cloud189-auto-save:v2.2.31
+xia1307/cloud189-auto-save:v2.2.30
 cp0204/quark-auto-save:latest
+cp0204/quark-auto-save:main
+cp0204/quark-auto-save:v0.6.2
+cp0204/quark-auto-save:v0.6.1
+cp0204/quark-auto-save:v0.5.4
 
 xhofe/alist:latest
 #buqian/alist:latest
