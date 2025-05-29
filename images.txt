@@ -56,7 +56,8 @@ bestzwei/libretv:latest
 #docker
 #6053537/portainer-ce
 #louislam/dockge:1
-#0nlylty/dockercopilot:UGREEN
+0nlylty/dockercopilot:latest
+linkease/kspeeder:latest
 #cp0204/dkturbo:main
 
 #pt
