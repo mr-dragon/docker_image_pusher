@@ -146,6 +146,8 @@ itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
 itefuir/alist-strm:beta
 
+rongyunmu/mediahelp:test
+
 # 30元
 #htnanako/xstrm:latest
 
