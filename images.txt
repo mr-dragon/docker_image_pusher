@@ -19,6 +19,7 @@ haroldli/xiaoya-tvbox:hostmode
 haroldli/alist-tvbox:latest
 haroldli/alist-tvbox:dev
 
+youshandefeiyang1/allinone:latest
 
 #=================AI=================start
 #ghcr.io/open-webui/open-webui:main
@@ -146,7 +147,7 @@ itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
 itefuir/alist-strm:beta
 
-rongyunmu/mediahelp:test
+#rongyunmu/mediahelp:test
 
 # 30元
 #htnanako/xstrm:latest
