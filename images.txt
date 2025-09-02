@@ -171,7 +171,7 @@ xhofe/alist:latest
 ghcr.io/metatube-community/metatube-server:latest
 len996/115bot:amd7.6
 len996/115bot:arm7.6
-liangnianzhi/115bot.len996:latest
+liangnianzhi/115bot.len996:latest-null
 fz19870823190/telegram-115bot:latest
 nasa0719/115bot:latest
 nasa0719/115bot:2025-08-31
