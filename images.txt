@@ -19,7 +19,7 @@ haroldli/xiaoya-tvbox:hostmode
 haroldli/alist-tvbox:latest
 haroldli/alist-tvbox:dev
 
-youshandefeiyang1/allinone:latest
+#youshandefeiyang1/allinone:latest
 
 #=================AI=================start
 #ghcr.io/open-webui/open-webui:main
@@ -66,10 +66,12 @@ ghcr.io/erlichliu/deepclaude:latest
 #emby/embyserver:4.9.0.38
 #amilys/embyserver:4.9.0.37
 #amilys/embyserver:latest
+hbq0405/emby-toolkit:latest
+
 #ddsderek/xiaoya-emd:latest
 #ddsderek/xiaoya-emd:v1.6.0
 
-bestzwei/libretv:latest
+#bestzwei/libretv:latest
 
 #docker
 #6053537/portainer-ce
@@ -103,7 +105,7 @@ xylplm/media-saber:latest
 xylplm/media-saber:dev
 #xylplm/media-saber:latest-beta
 #xylplm/media-saber:beta-arm
-xylplm/media-saber:3.0.202505091236
+#xylplm/media-saber:3.0.202505091236
 
 advplyr/audiobookshelf:latest
 gotson/komga:latest
@@ -132,7 +134,7 @@ gotson/komga:latest
 #gethomepage/homepage:feature-komga-v2
 #gethomepage/homepage:latest
 
-heizicao/myicon:latest
+#heizicao/myicon:latest
 ##=================Navigation=================end
 
 
@@ -169,18 +171,18 @@ xhofe/alist:latest
 #homeassistant/home-assistant:stable
 #metatube/metatube-server:latest
 ghcr.io/metatube-community/metatube-server:latest
-len996/115bot:amd7.6
-len996/115bot:arm7.6
-liangnianzhi/115bot.len996:latest-null
+#len996/115bot:amd7.6
+#len996/115bot:arm7.6
+#liangnianzhi/115bot.len996:latest-null
 fz19870823190/telegram-115bot:latest
 nasa0719/115bot:latest
-nasa0719/115bot:2025-08-31
+#nasa0719/115bot:2025-08-31
 
 qiqiandfei/115-bot:latest
 qiqiandfei/115-bot:beta
-qiqiandfei/115-bot:v2.3.7
-qiqiandfei/115-bot:v3.1.0
-qiqiandfei/115-bot:v3.0.0
+#qiqiandfei/115-bot:v2.3.7
+#qiqiandfei/115-bot:v3.1.0
+#qiqiandfei/115-bot:v3.0.0
 #crazymax/diun:latest
 #whyour/qinglong:latest
 #gdy666/lucky:latest
@@ -245,6 +247,6 @@ louislam/uptime-kuma:1
 #traefik:2
 #traefik:3
 
-hitokoto/api:release
+#hitokoto/api:release
 
 #==========dev==========end
