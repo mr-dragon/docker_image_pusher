@@ -1,10 +1,11 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 openlistteam/openlist
 
-xhofe/alist:latest
-#xhofe/alist:v3.45.0
+openlistteam/openlist:latest
+openlistteam/openlist:beta
+openlistteam/openlist:v4.1.4
 
 #haroldli/xiaoya-tvbox:latest
 #haroldli/xiaoya-tvbox:hostmode
