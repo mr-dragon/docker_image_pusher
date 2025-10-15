@@ -14,10 +14,10 @@ xhofe/alist:latest
 #xhofe/alist:v3.37.0
 #xhofe/alist:v3.36.0
 #xhofe/alist:v3.35.0
-haroldli/xiaoya-tvbox:latest
-haroldli/xiaoya-tvbox:hostmode
-haroldli/alist-tvbox:latest
-haroldli/alist-tvbox:dev
+#haroldli/xiaoya-tvbox:latest
+#haroldli/xiaoya-tvbox:hostmode
+#haroldli/alist-tvbox:latest
+#haroldli/alist-tvbox:dev
 
 #youshandefeiyang1/allinone:latest
 
@@ -52,7 +52,7 @@ haroldli/alist-tvbox:dev
 #n8nio/n8n:latest
 
 #xy2yp/deepclaude:latest
-ghcr.io/erlichliu/deepclaude:latest
+#ghcr.io/erlichliu/deepclaude:latest
 
 #=================AI=================end
 
@@ -77,7 +77,7 @@ hbq0405/emby-toolkit:latest
 #6053537/portainer-ce
 #louislam/dockge:1
 0nlylty/dockercopilot:latest
-linkease/kspeeder:latest
+#linkease/kspeeder:latest
 #cp0204/dkturbo:main
 
 #pt
@@ -98,7 +98,7 @@ envyafish/byte-muse:latest
 
 #mp
 jxxghp/moviepilot-v2:latest
-#jxxghp/moviepilot-v2:2.2.8-1
+#jxxghp/moviepilot-v2:2.8.1
 
 #ms
 xylplm/media-saber:latest
@@ -107,8 +107,8 @@ xylplm/media-saber:dev
 #xylplm/media-saber:beta-arm
 #xylplm/media-saber:3.0.202505091236
 
-advplyr/audiobookshelf:latest
-gotson/komga:latest
+#advplyr/audiobookshelf:latest
+#gotson/komga:latest
 #gotson/komga:1.19.1
 
 #ysx88/autolady:latest
@@ -137,31 +137,39 @@ gotson/komga:latest
 #heizicao/myicon:latest
 ##=================Navigation=================end
 
+guovern/iptv-api:latest
+
+ghcr.io/fish2018/pansou:latest
+ghcr.io/fish2018/pansou-web
+
+
 
 #strm 115 302
 # cms： 88元
 imaliang/cloud-media-sync:latest
-#imaliang/cloud-media-sync:0.3.5.15
+imaliang/cloud-media-sync:0.3.8.20
+#cms增强，支持nullbr https://github.com/iLay1678/cloud-media-sync-enhanced
 #imaliang/cloud-media-sync:0.3.5.14
 #imaliang/cloud-media-sync:0.3.5.8
 
-itefuir/alist-strm:latest
+#itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
-itefuir/alist-strm:beta
+#itefuir/alist-strm:beta
 
 #rongyunmu/mediahelp:test
 
 # 30元
 #htnanako/xstrm:latest
 
-jiangrui1994/cloudsaver:latest
-jiangrui1994/cloudsaver:test
+#jiangrui1994/cloudsaver:latest
+#jiangrui1994/cloudsaver:test
 
 # 网盘观影
-gravityle/nullbr115:latest
-xia1307/cloud189-auto-save:latest
-cp0204/quark-auto-save:latest
-cp0204/quark-auto-save:main
+#gravityle/nullbr115:latest
+gravityle/hyperms:0.0.1
+#xia1307/cloud189-auto-save:latest
+#cp0204/quark-auto-save:latest
+#cp0204/quark-auto-save:main
 #cp0204/quark-auto-save:v0.6.2
 
 xhofe/alist:latest
@@ -170,16 +178,16 @@ xhofe/alist:latest
 
 #homeassistant/home-assistant:stable
 #metatube/metatube-server:latest
-ghcr.io/metatube-community/metatube-server:latest
+#ghcr.io/metatube-community/metatube-server:latest
 #len996/115bot:amd7.6
 #len996/115bot:arm7.6
 #liangnianzhi/115bot.len996:latest-null
-fz19870823190/telegram-115bot:latest
-nasa0719/115bot:latest
+#fz19870823190/telegram-115bot:latest
+#nasa0719/115bot:latest
 #nasa0719/115bot:2025-08-31
 
-qiqiandfei/115-bot:latest
-qiqiandfei/115-bot:beta
+#qiqiandfei/115-bot:latest
+#qiqiandfei/115-bot:beta
 #qiqiandfei/115-bot:v2.3.7
 #qiqiandfei/115-bot:v3.1.0
 #qiqiandfei/115-bot:v3.0.0
@@ -189,7 +197,7 @@ qiqiandfei/115-bot:beta
 #gdy666/lucky:2.15.3
 #gdy666/lucky:2.14.0
 #corentinth/it-tools:latest
-linuxserver/calibre-web:latest
+#linuxserver/calibre-web:latest
 
 #tvbox
 #eulac/tgsou
@@ -204,8 +212,15 @@ linuxserver/calibre-web:latest
 
 
 #==========dev==========start
-wcjiang/reference:latest
-louislam/uptime-kuma:1
+
+bugattiguy527/termix:latest
+dushixiang/next-terminal:latest
+
+#heavrnl/nexus-terminal-frontend:latest
+#heavrnl/nexus-terminal-backend:latest
+
+#wcjiang/reference:latest
+#louislam/uptime-kuma:1
 #adminer
 #phpmyadmin
 
