@@ -157,6 +157,8 @@ wyh3210277395/magnetboard:latest
 wyh3210277395/magnetboard:arm64
 registry.cn-shenzhen.aliyuncs.com/enacih/magnetboard:break
 
+wangag/sssearch:latest
+
 # 网盘观影
 #gravityle/nullbr115:latest
 gravityle/hyperms:0.0.1
