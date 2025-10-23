@@ -145,15 +145,16 @@ imaliang/cloud-media-sync:latest
 #jiangrui1994/cloudsaver:latest
 #jiangrui1994/cloudsaver:test
 
-wyh3210277395/magnetboard:v1.1.8
-wyh3210277395/magnetboard:v1.1.7
-wyh3210277395/magnetboard:v1.1.0
-wyh3210277395/magnetboard:v1.0.9
-wyh3210277395/magnetboard:v1.0.2
-wyh3210277395/magnetboard:arm64
-wyh3210277395/magnetboard:main-arm64
-wyh3210277395/magnetboard:arm64-main
+#wyh3210277395/magnetboard:v1.1.8
+#wyh3210277395/magnetboard:v1.1.7
+#wyh3210277395/magnetboard:v1.1.0
+#wyh3210277395/magnetboard:v1.0.9
+#wyh3210277395/magnetboard:v1.0.2
+#wyh3210277395/magnetboard:main-arm64
+#wyh3210277395/magnetboard:arm64-main
 
+wyh3210277395/magnetboard:latest
+wyh3210277395/magnetboard:arm64
 registry.cn-shenzhen.aliyuncs.com/enacih/magnetboard:break
 
 # 网盘观影
