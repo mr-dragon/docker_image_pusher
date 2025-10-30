@@ -145,27 +145,20 @@ imaliang/cloud-media-sync:latest
 #jiangrui1994/cloudsaver:latest
 #jiangrui1994/cloudsaver:test
 
-#wyh3210277395/magnetboard:v1.1.8
-#wyh3210277395/magnetboard:v1.1.7
-#wyh3210277395/magnetboard:v1.1.0
-#wyh3210277395/magnetboard:v1.0.9
-#wyh3210277395/magnetboard:v1.0.2
-#wyh3210277395/magnetboard:main-arm64
-#wyh3210277395/magnetboard:arm64-main
 
-wyh3210277395/magnetboard:latest
-wyh3210277395/magnetboard:arm64
-registry.cn-shenzhen.aliyuncs.com/enacih/magnetboard:break
+#wyh3210277395/magnetboard:latest
+#wyh3210277395/magnetboard:arm64
+#registry.cn-shenzhen.aliyuncs.com/enacih/magnetboard:break
 
-wangag/sssearch:latest
+#wangag/sssearch:latest
 
 # 网盘观影
 #gravityle/nullbr115:latest
-gravityle/hyperms:0.0.1
+gravityle/hyperms:0.0.4
 #xia1307/cloud189-auto-save:latest
 #cp0204/quark-auto-save:latest
 
-xhofe/alist:latest
+#xhofe/alist:latest
 #buqian/alist:latest
 #cloudnas/clouddrive2
 
