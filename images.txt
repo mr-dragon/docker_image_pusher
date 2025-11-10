@@ -135,6 +135,10 @@ imaliang/cloud-media-sync:latest
 #cms增强，支持nullbr https://github.com/iLay1678/cloud-media-sync-enhanced
 #imaliang/cloud-media-sync:0.3.5.14
 
+#sa
+jifav13945/symedia-patched:latest
+jifav13945/symedia-patched:c8e6f49c2f419ff344a1ef5cd8c28da168b2f46b
+
 #itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
 
