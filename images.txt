@@ -124,6 +124,7 @@ xylplm/media-saber:dev
 #heizicao/myicon:latest
 ##=================Navigation=================end
 
+lampon/omnibox:latest
 
 ghcr.io/fish2018/pansou:latest
 ghcr.io/fish2018/pansou-web
