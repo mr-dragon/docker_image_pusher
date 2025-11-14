@@ -116,6 +116,7 @@ xylplm/media-saber:dev
 #madrays/sun-panel-helper:latest
 #madrays/sun-panel-helper:v2.0.2
 
+kwangyeonc/homepage-config-manager:latest
 #gethomepage/homepage:dev
 #gethomepage/homepage:v0.10.9
 #gethomepage/homepage:feature-komga-v2
@@ -126,19 +127,23 @@ xylplm/media-saber:dev
 
 lampon/omnibox:latest
 
-ghcr.io/fish2018/pansou:latest
-ghcr.io/fish2018/pansou-web
+#ghcr.io/fish2018/pansou:latest
+ghcr.io/fish2018/pansou-web:latest
 
 #strm 115 302
 # cms： 88元
 imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.8.20
 #cms增强，支持nullbr https://github.com/iLay1678/cloud-media-sync-enhanced
-#imaliang/cloud-media-sync:0.3.5.14
+imaliang/cloud-media-sync:0.3.9.4
 
 #sa
-jifav13945/symedia-patched:latest
-jifav13945/symedia-patched:c8e6f49c2f419ff344a1ef5cd8c28da168b2f46b
+#jifav13945/symedia-patched:latest
+#jifav13945/symedia-patched:c8e6f49c2f419ff344a1ef5cd8c28da168b2f46b
+
+savextube/savextube:v0.6-dev2
+savextube/savextube:v0.5
+savextube/savextube:latest
 
 #itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
