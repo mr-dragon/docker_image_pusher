@@ -4,8 +4,8 @@
 #--platform=linux/arm64 openlistteam/openlist
 
 openlistteam/openlist:latest
-openlistteam/openlist:beta
-openlistteam/openlist:v4.1.4
+#openlistteam/openlist:beta
+#openlistteam/openlist:v4.1.4
 
 #haroldli/xiaoya-tvbox:latest
 #haroldli/xiaoya-tvbox:hostmode
@@ -14,6 +14,8 @@ openlistteam/openlist:v4.1.4
 
 #youshandefeiyang1/allinone:latest
 guovern/iptv-api:latest
+
+ghcr.io/zephyruso/zashboard:latest
 
 
 #=================Doc=================start
@@ -81,7 +83,7 @@ hbq0405/emby-toolkit:latest
 #https://github.com/DDS-Derek/transmission-Docker
 #ddsderek/transmission:latest
 #ddsderek/transmission:v4
-#nevinee/qbittorrent:4.3.9
+nevinee/qbittorrent:5.0.4
 #nevinee/qbittorrent
 #iyuucn/iyuuplus-dev:latest
 #iyuucn/iyuuplus:latest
@@ -122,6 +124,7 @@ kwangyeonc/homepage-config-manager:latest
 #gethomepage/homepage:feature-komga-v2
 #gethomepage/homepage:latest
 
+
 #heizicao/myicon:latest
 ##=================Navigation=================end
 
@@ -135,7 +138,7 @@ ghcr.io/fish2018/pansou-web:latest
 imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.8.20
 #cms增强，支持nullbr https://github.com/iLay1678/cloud-media-sync-enhanced
-imaliang/cloud-media-sync:0.3.9.4
+#imaliang/cloud-media-sync:0.3.9.4
 
 #sa
 #jifav13945/symedia-patched:latest
@@ -158,7 +161,7 @@ savextube/savextube:latest
 
 #wyh3210277395/magnetboard:latest
 #wyh3210277395/magnetboard:arm64
-#registry.cn-shenzhen.aliyuncs.com/enacih/magnetboard:break
+
 
 #wangag/sssearch:latest
 
