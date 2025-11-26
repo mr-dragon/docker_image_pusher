@@ -14,6 +14,7 @@ openlistteam/openlist:latest
 
 #youshandefeiyang1/allinone:latest
 guovern/iptv-api:latest
+instituteiptv/bee-v1:latest
 
 ghcr.io/zephyruso/zashboard:latest
 
@@ -141,11 +142,11 @@ imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.9.4
 
 #sa
-jifav13945/symedia-patched:latest
-jifav13945/fastemby-patched:latest
-jifav13945/redia-patched:latest
-jifav13945/onestrm-patched:latest
-jifav13945/mgboard-patched:latest
+#jifav13945/symedia-patched:latest
+#jifav13945/fastemby-patched:latest
+#jifav13945/redia-patched:latest
+#jifav13945/onestrm-patched:latest
+#jifav13945/mgboard-patched:latest
 
 
 jifav13945/symedia-patched:c8e6f49c2f419ff344a1ef5cd8c28da168b2f46b
@@ -157,8 +158,8 @@ jifav13945/onestrm-patched:24c5969dd4021068c6f456321d6332770bea93ed
 jifav13945/mgboard-patched:24c5969dd4021068c6f456321d6332770bea93ed
 
 
-savextube/savextube:v0.6-dev2
-savextube/savextube:v0.5
+#savextube/savextube:v0.6-dev2
+#savextube/savextube:v0.5
 savextube/savextube:latest
 
 #itefuir/alist-strm:latest
@@ -180,7 +181,7 @@ savextube/savextube:latest
 
 # 网盘观影
 #gravityle/nullbr115:latest
-gravityle/hyperms:0.0.4
+gravityle/hyperms:0.0.5
 #xia1307/cloud189-auto-save:latest
 #cp0204/quark-auto-save:latest
 
