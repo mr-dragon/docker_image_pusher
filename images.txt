@@ -142,14 +142,14 @@ imaliang/cloud-media-sync:latest
 #imaliang/cloud-media-sync:0.3.9.4
 
 #sa
-#jifav13945/symedia-patched:latest
-#jifav13945/fastemby-patched:latest
-#jifav13945/redia-patched:latest
-#jifav13945/onestrm-patched:latest
-#jifav13945/mgboard-patched:latest
+jifav13945/symedia-patched:latest
+jifav13945/fastemby-patched:latest
+jifav13945/redia-patched:latest
+jifav13945/onestrm-patched:latest
+jifav13945/mgboard-patched:latest
 
 
-jifav13945/symedia-patched:c8e6f49c2f419ff344a1ef5cd8c28da168b2f46b
+jifav13945/symedia-patched:24c5969dd4021068c6f456321d6332770bea93ed
 jifav13945/fastemby-patched:24c5969dd4021068c6f456321d6332770bea93ed
 jifav13945/redia-patched:24c5969dd4021068c6f456321d6332770bea93ed
 
