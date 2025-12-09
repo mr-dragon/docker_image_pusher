@@ -187,7 +187,13 @@ gravityle/hyperms:0.0.5
 
 #xhofe/alist:latest
 #buqian/alist:latest
-#cloudnas/clouddrive2
+cloudnas/clouddrive2:latest
+cloudnas/clouddrive2:0.8.19
+cloudnas/clouddrive2:0.8.18
+cloudnas/clouddrive2:0.8.20
+cloudnas/clouddrive2:0.8.9
+cloudnas/clouddrive2:0.9.16
+cloudnas/clouddrive2:0.9.6
 
 #homeassistant/home-assistant:stable
 #metatube/metatube-server:latest
