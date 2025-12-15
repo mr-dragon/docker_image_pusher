@@ -95,8 +95,8 @@ jxxghp/moviepilot-v2:latest
 #jxxghp/moviepilot-v2:2.8.1
 
 #ms
-xylplm/media-saber:latest
-xylplm/media-saber:dev
+#xylplm/media-saber:latest
+#xylplm/media-saber:dev
 
 #advplyr/audiobookshelf:latest
 #gotson/komga:latest
