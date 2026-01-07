@@ -26,6 +26,8 @@ doocs/md:latest
 #=================Doc=================end
 
 #=================AI=================start
+ghcr.io/su-kaka/gcli2api:latest
+
 #ghcr.io/open-webui/open-webui:main
 #dyrnq/open-webui:main
 #lobehub/lobe-chat:latest
