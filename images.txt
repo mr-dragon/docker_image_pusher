@@ -13,10 +13,20 @@ openlistteam/openlist:latest
 #haroldli/alist-tvbox:dev
 
 #youshandefeiyang1/allinone:latest
-guovern/iptv-api:latest
-instituteiptv/bee-v1:latest
+#guovern/iptv-api:latest
+#instituteiptv/bee-v1:latest
 
 ghcr.io/zephyruso/zashboard:latest
+
+#==========music==========start
+#落雪
+xcq0607/lxserver:latest
+#这个支持arm
+foamzou/melody:latest
+#这个还不支持arm
+geelonn/melodyhub:latest
+#==========music==========start
+
 
 
 #=================Doc=================start
@@ -121,7 +131,7 @@ jxxghp/moviepilot-v2:latest
 #madrays/sun-panel-helper:latest
 #madrays/sun-panel-helper:v2.0.2
 
-kwangyeonc/homepage-config-manager:latest
+#kwangyeonc/homepage-config-manager:latest
 #gethomepage/homepage:dev
 #gethomepage/homepage:v0.10.9
 #gethomepage/homepage:feature-komga-v2
@@ -131,7 +141,7 @@ kwangyeonc/homepage-config-manager:latest
 #heizicao/myicon:latest
 ##=================Navigation=================end
 
-lampon/omnibox:latest
+#lampon/omnibox:latest
 
 #ghcr.io/fish2018/pansou:latest
 ghcr.io/fish2018/pansou-web:latest
@@ -150,18 +160,6 @@ imaliang/cloud-media-sync:latest
 #jifav13945/onestrm-patched:latest
 #jifav13945/mgboard-patched:latest
 
-
-#jifav13945/symedia-patched:24c5969dd4021068c6f456321d6332770bea93ed
-#jifav13945/fastemby-patched:24c5969dd4021068c6f456321d6332770bea93ed
-#jifav13945/redia-patched:24c5969dd4021068c6f456321d6332770bea93ed
-
-#jifav13945/cms-patched:24c5969dd4021068c6f456321d6332770bea93ed
-#jifav13945/onestrm-patched:24c5969dd4021068c6f456321d6332770bea93ed
-#jifav13945/mgboard-patched:24c5969dd4021068c6f456321d6332770bea93ed
-
-
-#savextube/savextube:v0.6-dev2
-#savextube/savextube:v0.5
 savextube/savextube:latest
 
 #itefuir/alist-strm:latest
@@ -190,12 +188,12 @@ gravityle/hyperms:0.0.5
 #xhofe/alist:latest
 #buqian/alist:latest
 cloudnas/clouddrive2:latest
-cloudnas/clouddrive2:0.8.19
-cloudnas/clouddrive2:0.8.18
-cloudnas/clouddrive2:0.8.20
-cloudnas/clouddrive2:0.8.9
-cloudnas/clouddrive2:0.9.16
-cloudnas/clouddrive2:0.9.6
+#cloudnas/clouddrive2:0.8.19
+#cloudnas/clouddrive2:0.8.18
+#cloudnas/clouddrive2:0.8.20
+#cloudnas/clouddrive2:0.8.9
+#cloudnas/clouddrive2:0.9.16
+#cloudnas/clouddrive2:0.9.6
 
 #homeassistant/home-assistant:stable
 #metatube/metatube-server:latest
@@ -226,6 +224,7 @@ cloudnas/clouddrive2:0.9.6
 
 #podman
 #quay.io/podman/machine-os:5.3
+
 
 
 #==========dev==========start
