@@ -16,15 +16,21 @@ openlistteam/openlist:latest
 #guovern/iptv-api:latest
 #instituteiptv/bee-v1:latest
 
-ghcr.io/zephyruso/zashboard:latest
+#ghcr.io/zephyruso/zashboard:latest
 
 #==========music==========start
 #落雪
+lincolnpark2000/musicsync
+#下面2个ui好，但cpu占用110%
+geelonn/lxserver:latest
 xcq0607/lxserver:latest
+
+lincolnpark2000/mediasync
+
 #这个支持arm
-foamzou/melody:latest
+#foamzou/melody:latest
 #这个还不支持arm
-geelonn/melodyhub:latest
+#geelonn/melodyhub:latest
 #==========music==========start
 
 
