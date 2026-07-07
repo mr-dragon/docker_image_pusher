@@ -44,6 +44,11 @@ doocs/md:latest
 #=================AI=================start
 ghcr.io/su-kaka/gcli2api:latest
 
+#cli-proxy-api - LLM 代理网关
+eceasy/cli-proxy-api:latest
+#cpa-manager-plus - cli-proxy-api 管理面板
+seakee/cpa-manager-plus:latest
+
 #ghcr.io/open-webui/open-webui:main
 #dyrnq/open-webui:main
 #lobehub/lobe-chat:latest
