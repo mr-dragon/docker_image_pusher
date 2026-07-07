@@ -235,6 +235,9 @@ cloudnas/clouddrive2:latest
 
 #==========dev==========start
 
+#sub2api - LLM API 网关
+weishaw/sub2api:latest
+
 bugattiguy527/termix:latest
 dushixiang/next-terminal:latest
 
