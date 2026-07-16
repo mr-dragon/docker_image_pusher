@@ -295,6 +295,5 @@ dushixiang/next-terminal:latest
 #hitokoto/api:release
 
 #==========dev==========end
-|veildawn/conflux:latest
-
+veildawn/conflux:latest
 
