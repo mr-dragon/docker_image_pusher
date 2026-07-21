@@ -252,6 +252,9 @@ dushixiang/next-terminal:latest
 # reader - 在线阅读（已下架，需从fork重建）
 #hectorqin/reader:latest
 
+# Immortal - 闭源 AVDB 系 Docker 镜像（PostgreSQL + FlareSolverr）
+envyafish/immortal:latest
+
 #wcjiang/reference:latest
 #louislam/uptime-kuma:1
 #adminer
