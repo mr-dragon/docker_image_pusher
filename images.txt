@@ -309,3 +309,5 @@ guohuiyuan/go-music-dl:latest
 #==========dev==========end
 veildawn/conflux:latest
 
+#9router - 本地 AI 路由代理
+decolua/9router:latest
