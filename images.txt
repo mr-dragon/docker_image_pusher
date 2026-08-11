@@ -137,6 +137,7 @@ jxxghp/moviepilot-v2:latest
 #ysx88/subweb
 
 ##=================Navigation=================start
+xyp198988/lady-station:latest
 
 #hslr/sun-panel:latest
 #madrays/sun-panel-helper:latest
