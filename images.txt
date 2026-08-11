@@ -261,8 +261,11 @@ imaliang/cloud-media-sync:latest
 #heavrnl/nexus-terminal-frontend:latest
 #heavrnl/nexus-terminal-backend:latest
 
-# reader - 在线阅读（已下架，需从fork重建）
+# reader - 在线阅读（hectorqin/reader已下架，改用 fork）
 #hectorqin/reader:latest
+
+#reader-next - 在线阅读 3.0 (Rust, 章节摘要/AI资料/AI地图)
+ghcr.io/maple0517/reader-next:latest
 
 # Immortal - 闭源 AVDB 系 Docker 镜像（PostgreSQL + FlareSolverr）
 #envyafish/immortal:latest
