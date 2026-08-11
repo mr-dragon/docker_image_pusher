@@ -3,7 +3,7 @@
 #支持指定架构
 #--platform=linux/arm64 openlistteam/openlist
 
-openlistteam/openlist:latest
+#openlistteam/openlist:latest
 #openlistteam/openlist:beta
 #openlistteam/openlist:v4.1.4
 
@@ -22,32 +22,42 @@ openlistteam/openlist:latest
 #落雪
 lincolnpark2000/musicsync
 #下面2个ui好，但cpu占用110%
-geelonn/lxserver:latest
-xcq0607/lxserver:latest
+#geelonn/lxserver:latest
+#xcq0607/lxserver:latest
 
-lincolnpark2000/mediasync
+#https://github.com/lincolnpark2000/MediaSync 基于 Web UI 的多平台视频/图片下载工具
+#lincolnpark2000/mediasync
 
 #这个支持arm
 #foamzou/melody:latest
 #这个还不支持arm
 #geelonn/melodyhub:latest
+
+# go-music-dl - 基于 Go 的全网音乐搜索与下载工具
+#guohuiyuan/go-music-dl:latest
+
 #==========music==========start
 
 
 
 #=================Doc=================start
-doocs/md:latest-nginx
-doocs/md:latest
+#doocs/md:latest-nginx
+#doocs/md:latest
 
 #=================Doc=================end
 
 #=================AI=================start
-ghcr.io/su-kaka/gcli2api:latest
+#9router - 本地 AI 路由代理
+#decolua/9router:latest
+#sub2api - LLM API 网关
+weishaw/sub2api:latest
+
+#ghcr.io/su-kaka/gcli2api:latest
 
 #cli-proxy-api - LLM 代理网关
-eceasy/cli-proxy-api:latest
+#eceasy/cli-proxy-api:latest
 #cpa-manager-plus - cli-proxy-api 管理面板
-seakee/cpa-manager-plus:latest
+#seakee/cpa-manager-plus:latest
 
 #ghcr.io/open-webui/open-webui:main
 #dyrnq/open-webui:main
@@ -85,9 +95,9 @@ seakee/cpa-manager-plus:latest
 #emby/embyserver:latest
 #emby/embyserver:4.9.0.37
 #emby/embyserver:4.9.0.38
-amilys/embyserver:4.8.11.0
-amilys/embyserver:latest
-hbq0405/emby-toolkit:latest
+#amilys/embyserver:4.8.11.0
+#amilys/embyserver:latest
+#hbq0405/emby-toolkit:latest
 
 #ddsderek/xiaoya-emd:latest
 #ddsderek/xiaoya-emd:v1.6.0
@@ -97,7 +107,7 @@ hbq0405/emby-toolkit:latest
 #docker
 #6053537/portainer-ce
 #louislam/dockge:1
-0nlylty/dockercopilot:latest
+#0nlylty/dockercopilot:latest
 #linkease/kspeeder:latest
 #cp0204/dkturbo:main
 
@@ -107,15 +117,20 @@ hbq0405/emby-toolkit:latest
 #https://github.com/DDS-Derek/transmission-Docker
 #ddsderek/transmission:latest
 #ddsderek/transmission:v4
-nevinee/qbittorrent:5.0.4
+#nevinee/qbittorrent:5.0.4
 #nevinee/qbittorrent
 #iyuucn/iyuuplus-dev:latest
 #iyuucn/iyuuplus:latest
-envyafish/byte-muse:latest
+
+
+#envyafish/byte-muse:latest
+#xyp198988/lady-station:latest
+
 
 #mp
-jxxghp/moviepilot-v2:latest
+#jxxghp/moviepilot-v2:latest
 #jxxghp/moviepilot-v2:2.8.1
+#jxxghp/moviepilot-v3:latest
 
 #ms
 #xylplm/media-saber:latest
@@ -137,7 +152,6 @@ jxxghp/moviepilot-v2:latest
 #ysx88/subweb
 
 ##=================Navigation=================start
-xyp198988/lady-station:latest
 
 #hslr/sun-panel:latest
 #madrays/sun-panel-helper:latest
@@ -156,7 +170,7 @@ xyp198988/lady-station:latest
 #lampon/omnibox:latest
 
 #ghcr.io/fish2018/pansou:latest
-ghcr.io/fish2018/pansou-web:latest
+#ghcr.io/fish2018/pansou-web:latest
 
 #strm 115 302
 # cms： 88元
@@ -172,7 +186,7 @@ imaliang/cloud-media-sync:latest
 #jifav13945/onestrm-patched:latest
 #jifav13945/mgboard-patched:latest
 
-savextube/savextube:latest
+#savextube/savextube:latest
 
 #itefuir/alist-strm:latest
 #itefuir/alist-strm:v2.4
@@ -193,13 +207,13 @@ savextube/savextube:latest
 
 # 网盘观影
 #gravityle/nullbr115:latest
-gravityle/hyperms:0.0.5
+#gravityle/hyperms:0.0.5
 #xia1307/cloud189-auto-save:latest
 #cp0204/quark-auto-save:latest
 
 #xhofe/alist:latest
 #buqian/alist:latest
-cloudnas/clouddrive2:latest
+#cloudnas/clouddrive2:latest
 #cloudnas/clouddrive2:0.8.19
 #cloudnas/clouddrive2:0.8.18
 #cloudnas/clouddrive2:0.8.20
@@ -241,11 +255,8 @@ cloudnas/clouddrive2:latest
 
 #==========dev==========start
 
-#sub2api - LLM API 网关
-weishaw/sub2api:latest
-
-bugattiguy527/termix:latest
-dushixiang/next-terminal:latest
+#bugattiguy527/termix:latest
+#dushixiang/next-terminal:latest
 
 #heavrnl/nexus-terminal-frontend:latest
 #heavrnl/nexus-terminal-backend:latest
@@ -254,13 +265,10 @@ dushixiang/next-terminal:latest
 #hectorqin/reader:latest
 
 # Immortal - 闭源 AVDB 系 Docker 镜像（PostgreSQL + FlareSolverr）
-envyafish/immortal:latest
+#envyafish/immortal:latest
 
 # chinese-poetry-api - 诗泉，高性能中国古诗词 API（REST + GraphQL）
-palemoky/chinese-poetry-api:latest
-
-# go-music-dl - 基于 Go 的全网音乐搜索与下载工具
-guohuiyuan/go-music-dl:latest
+#palemoky/chinese-poetry-api:latest
 
 #wcjiang/reference:latest
 #louislam/uptime-kuma:1
@@ -308,7 +316,7 @@ guohuiyuan/go-music-dl:latest
 #hitokoto/api:release
 
 #==========dev==========end
+#https://github.com/veildawn/conflux-app
 veildawn/conflux:latest
 
-#9router - 本地 AI 路由代理
-decolua/9router:latest
+
